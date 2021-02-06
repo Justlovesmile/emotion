@@ -100,7 +100,7 @@
     ]
   },
   "猥琐萌": {
-    "type": "image",
+    "type": "jpg",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/1.jpg\">", "text": "口吐彩虹" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/2.jpg\">", "text": "呸" },
@@ -151,7 +151,7 @@
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/47.jpg\">", "text": "杀马特" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/48.jpg\">", "text": "血泪" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/49.jpg\">", "text": "抽烟" },
-      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/50.jpg\">", "text": "我吃5" },
+      { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/Justlovesmile/emotion/%E7%8C%A5%E7%90%90%E8%90%8C/50.jpg\">", "text": "我吃5" }
     ]
   }
 }
